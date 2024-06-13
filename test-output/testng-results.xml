@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-06-09T18:28:05 IST" name="Default suite" finished-at="2024-06-09T18:28:06 IST" duration-ms="1013">
+    <groups>
+    </groups>
+    <test started-at="2024-06-09T18:28:05 IST" name="Default test" finished-at="2024-06-09T18:28:06 IST" duration-ms="1013">
+      <class name="com.storedFunctionTesting.StoredFunctionTesting">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.storedFunctionTesting.StoredFunctionTesting@771a660]" started-at="2024-06-09T18:28:05 IST" name="setUp" finished-at="2024-06-09T18:28:05 IST" duration-ms="724" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="test_storedFunctionExistsTC01()[pri:1, instance:com.storedFunctionTesting.StoredFunctionTesting@771a660]" started-at="2024-06-09T18:28:05 IST" name="test_storedFunctionExistsTC01" finished-at="2024-06-09T18:28:05 IST" duration-ms="86" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_storedFunctionExistsTC01 -->
+        <test-method signature="storedFunctionTestWithSQLStatementTC02()[pri:2, instance:com.storedFunctionTesting.StoredFunctionTesting@771a660]" started-at="2024-06-09T18:28:05 IST" name="storedFunctionTestWithSQLStatementTC02" finished-at="2024-06-09T18:28:05 IST" duration-ms="31" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- storedFunctionTestWithSQLStatementTC02 -->
+        <test-method signature="callmethodTC03()[pri:3, instance:com.storedFunctionTesting.StoredFunctionTesting@771a660]" started-at="2024-06-09T18:28:05 IST" name="callmethodTC03" finished-at="2024-06-09T18:28:06 IST" duration-ms="80" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- callmethodTC03 -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.storedFunctionTesting.StoredFunctionTesting@771a660]" started-at="2024-06-09T18:28:06 IST" name="tearDown" finished-at="2024-06-09T18:28:06 IST" duration-ms="4" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.storedFunctionTesting.StoredFunctionTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
